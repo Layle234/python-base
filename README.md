@@ -13,7 +13,7 @@ Idiomas suportados:
 - 🇮🇹 `it_IT` → Ciao, Mondo!
 - 🇫🇷 `fr_FR` → Bonjour, Monde!
 
-## 🚀 Como usar
+## 🚀 Como usar?
 
 ### 💻 PowerShell (Windows)
 
